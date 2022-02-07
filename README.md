@@ -21,10 +21,12 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/98140422/152790282-0163506d-eccc-43e8-b779-c86c422e099f.png)
+
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://siddhantvats05.github.io/Order-Summary/
 
 ## My process
 
